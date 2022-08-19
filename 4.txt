@@ -1,0 +1,177 @@
+Question 1. Number of primitive data types in Java are?
+a. 6
+b. 7
+c. 8
+d. 9
+ 
+Quesion 2. What is the size of float and double in java?
+a. 32 and 64
+b. 32 and 32
+c. 64 and 64
+d. 64 and 32
+ 
+Question 3. Automatic type conversion is possible in which of the possible cases?
+a. byte to int
+b. int to long
+c. long to int
+d. short to int
+ 
+Question 4. Find the output of the following code.
+
+int Integer = 24;
+char String  = 'I';
+System.out.print(Integer);
+System.out.print(String);
+
+a. Compile error
+b. Throws exception
+c. I
+d. 24I
+ 
+Question 5. Find the output of the following program.
+
+public class Solution{
+-------public static void main(String[] args){
+---------------------short x = 10;
+---------------------x =  x * 5;
+---------------------System.out.print(x);
+-------}
+}
+
+a. 50
+b. 10
+c. Compile error
+d. Exception
+ 
+Question 6. Find the output of the following program.
+
+public class Solution{
+-------public static void main(String[] args){
+---------------------x++;
+---------------------byte x = 127;
+---------------------x++;
+---------------------System.out.print(x);
+-------}
+}
+
+a. -127
+b. 127
+c. 129
+d. 2
+ 
+Question 7. Select the valid statement.
+a. char[] ch = new char(5)
+b. char[] ch = new char[5]
+c. char[] ch = new char()
+d. char[] ch = new char[]
+ 
+Question 8. Find the output of the following program.
+
+public class Solution{
+-------public static void main(String[] args){
+--------------int[]  x = {120, 200, 016};
+--------------for(int i = 0; i < x.length; i++){
+---------------------System.out.print(x[i] + “ “);
+--------------}                   
+-------}
+}
+
+a. 120 200 016
+b. 120 200 14
+c. 120 200 16
+d. None
+ 
+Question 9. When an array is passed to a method, what does the method receive?
+a. The refernce of the array
+b. A copy of the array
+c. Length of the array
+d. Copy of first element
+ 
+Question 10. Select the valid statement to declare and initialize an array.
+a. int[] A={}
+b. int[] A={1,2,3}
+c. int[] A=(1,2,3)
+d. int[][] A={1,2,3}
+ 
+Question 11. Find the value of A[1] after execution of the following program.
+
+int[] A = {0,2,4,1,3};
+for(int i = 0; i < a.length; i++){
+-------a[i] = a[(a[i] + 3) % a.length];
+}
+
+a. 0
+b. 1
+c. 2
+d. 3
+ 
+Question 12. Arrays in java are-
+a. Object refernces
+b. objects
+c. Primitive data type
+d. None
+ 
+Question 13. When is the object created with new keyword?
+a. At run time
+b. At complie time
+c. Depends on the code
+d. None
+ 
+Question 14. Identify the corrected definition of a package.
+a. A package is a collection of editing tools
+b. A package is a collection of classes
+c. A package is a collection of classes and interfaces
+d. A package is a collection of interfaces
+ 
+Question 15. Identify the correct restriction on static methods.
+
+1. They must access only static data
+2. They can only call other static methods.
+3. They cannot refer to this or super.
+
+a. I and II
+b. II and III 
+c. Only III
+d. I, II and III
+  
+Question 16. Identify the keyword among the following that makes a variable belong to a class,
+rather than being defined for each instance of the class.
+a. final
+b. static
+c. volatile
+d. abstract
+ 
+Question 17. Identify what can directly access and change the value of the variable res.
+
+Package com.mypackage;
+Public class Solution{
+-------Private int res = 100;
+}
+
+a. Any class
+b. Only Solution class
+c. Any class that extends Solution
+d. None
+ 
+Question 18. In which of the following is toString() method defined?
+a. java.lang.Object
+b. java.lang.String
+c. java.lang.util
+d. None
+ 
+Question 19. compareTo() returns
+a. True
+b. False
+c. An int value
+d. None
+ 
+Question 20. Identify the output of the following program.
+
+String str = "abcde";
+System.out.println(str.substring(1, 3));
+
+a. abc
+b. bc
+c. bcd
+d. cd
+ 
