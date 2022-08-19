@@ -10,7 +10,8 @@ class QuizEvaluation{
         int i=0, ctr=0;
         try {
             System.out.print("\033[H\033[2J"); // Escape Sequence to Clear Terminal Screen
-            File Obj = new File("Questions.txt");
+            String xx="Questions";
+            File Obj = new File(xx+".txt");
             Scanner Reader = new Scanner(Obj);
             while (Reader.hasNextLine()) {
                 String data = Reader.nextLine();
