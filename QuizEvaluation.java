@@ -24,6 +24,7 @@ class QuizEvaluation{
                     i++;
                     System.out.print("\033[H\033[2J"); // Escape Sequence to Clear Terminal Screen
                 }
+                else
                 System.out.println(data);
             }
             Reader.close();
