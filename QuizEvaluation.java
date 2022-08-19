@@ -8,6 +8,7 @@ class QuizEvaluation{
             File Obj = new File("Questions.txt");
             Scanner sc=new Scanner(System.in);
             Scanner Reader = new Scanner(Obj);
+            System.out.print("\033[H\033[2J"); // Escape Sequence to Clear Terminal Screen
             while (Reader.hasNextLine()) {
                 String data = Reader.nextLine();
                 if(data.startsWith(" ")){
@@ -18,6 +19,7 @@ class QuizEvaluation{
                         ctr++;
                     }
                     i++;
+                    System.out.print("\033[H\033[2J"); // Escape Sequence to Clear Terminal Screen
                 }
                 System.out.println(data);
             }
