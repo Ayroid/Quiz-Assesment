@@ -1,0 +1,119 @@
+Question 1. By default the members of the structure are
+a. private
+b. protected
+c. public
+d. Access specifiers not applicable for structures.
+ 
+Question 2. We can have varying number of arguments for the overloaded form of () operator.
+a. True
+b. False
+ 
+Question 3. What is the only function all C++ programs must contain?
+a. start()
+b. system()
+c. main()
+d. program()
+ 
+Question 4. Which of the following is a correct comment?
+a. */ Comments */
+b. ** Comment **
+c. /* Comment */
+d. { Comment }
+ 
+Question 5. Which of the following is not a correct variable type?
+a. float
+b. real
+c. int
+d. double
+ 
+Question 6. Which of the following is the boolean operator for logical-and?
+a. &
+b. |&
+c. |
+d. &&
+ 
+Question 7. Which is not a loop structure?
+a. for
+b. do while
+c. while
+d. repeat until
+ 
+Question 8. How many times is a do while loop guaranteed to loop?
+a. 0
+b. Infinitely
+c. 1
+d. Variable
+ 
+Question 9. Which of the following is a valid function call (assuming the function exists)?
+a. funct();
+b. funct x, y;
+c. funct;
+d. int funct();
+ 
+Quesion 10. Which of the following gives the value stored at the address pointed to by the pointer a?
+a. a;
+b. *a;
+c. val(a);
+d. &a;
+ 
+Quesion 11. Which of the following is the proper keyword to allocate memory?
+a. new
+b. malloc
+c. create
+d. value
+ 
+
+Question 12. Which of the following correctly declares an array?
+a. int anarray[10];
+b. int anarray;
+c. anarray{10};
+d. array anarray[10];
+ 
+Question 13. Which of the following gives the memory address of the first element in array foo, an array with 100 elements?
+a. foo[0];
+b. foo[1];
+c. &foo;
+d. foo;
+ 
+Question 14. Which of the following is a string literal?
+a. Static String
+b. "Static String"
+c. 'Static String'
+d. char string[100];
+ 
+Question 15. What character ends all strings?
+a. '.'
+b. ' '
+c. '\0'
+d. '\n'
+ 
+Question 16. Which of the following reads in a string named x with one hundred characters?
+a. fgets(x, 101, stdin);
+b. fgets(x, 100, stdin);
+c. readline(x, 100, '\n');
+d. read(x);
+ 
+Question 17. Which of the following functions compares two strings?
+a. compare();
+b. stringcompare();
+c. cmp();
+d. strcmp();
+ 
+Question 18. Which of the following adds one string to the end of another?
+a. append();
+b. stringadd();
+c. strcat();
+d. stradd();
+ 
+Question 19. Which of the following is a properly defined struct?
+a. struct {int a;}
+b. struct a_struct {int a;}
+c. struct a_struct int a;
+d. struct a_struct {int a;};
+ 
+Question 20. Which properly declares a variable of struct foo?
+a. struct foo;
+b. struct foo var;
+c. foo;
+d. int foo;
+ 
