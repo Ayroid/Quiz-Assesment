@@ -4,12 +4,12 @@ class QuizEvaluation{
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             System.out.print("\033[H\033[2J"); // Escape Sequence to Clear Terminal Screen
-            System.out.println("\n\n\n\t\t\t\t\t\t\t\t\t\t\tJAVA QUIZ");
+            System.out.println("\n\t\t\t\t\t\t\t\t\t\t\tJAVA QUIZ");
             System.out.println("STUDENT DETAILS");
             System.out.print("Name: ");
             String name=sc.nextLine();
             System.out.print("Roll No: ");
-            int rollno=sc.nextInt();
+            String rollno=sc.nextLine();
             System.out.print("SAPID: ");
             int sapid=sc.nextInt();
             int i=0, ctr=0;
@@ -17,7 +17,6 @@ class QuizEvaluation{
             try {
                 System.out.print("\033[H\033[2J"); // Escape Sequence to Clear Terminal Screen
                 int questionset=random.nextInt(1,5);
-                System.out.println(questionset);
                 File Obj = new File(questionset+".txt");
                 Scanner Reader = new Scanner(Obj);
                 String answers=Reader.nextLine();
