@@ -18,7 +18,6 @@ c. long to int
 d. short to int
  
 Question 4. Find the output of the following code.
-
 int Integer = 24;
 char String  = 'I';
 System.out.print(Integer);
