@@ -17,7 +17,7 @@ class QuizEvaluation{
             try {
                 System.out.print("\033[H\033[2J"); // Escape Sequence to Clear Terminal Screen
                 int questionset=random.nextInt(1,5);
-                File Obj = new File(questionset+".txt");
+                File Obj = new File(2+".txt");
                 Scanner Reader = new Scanner(Obj);
                 String answers=Reader.nextLine();
                 while (Reader.hasNextLine()) {

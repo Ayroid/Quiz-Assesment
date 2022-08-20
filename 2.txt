@@ -34,7 +34,7 @@ a. 0
 b. 32
 c. 56
 d. 46
-
+ 
 Question 7. Which of the follwing is Heron's Formula?
 a. 1/2*b*h
 b. sqrt[ (s-a)(s-b)(s-c) ]
