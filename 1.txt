@@ -1,107 +1,107 @@
-Question 1: What is a correct syntax to output "Hello World" in Java?
+Question 1. What is a correct syntax to output "Hello World" in Java?
 a. Console.WriteLine("Hello World");
 b. System.out.println("Hello World");
 c. print("Hello World");
 d. echo("Hello World");
  
-Question 2: Java is short for "JavaScript".
+Question 2. Java is short for "JavaScript".
 a. True
 b. False
  
-Question 3: How do you insert COMMENTS in Java code?
+Question 3. How do you insert COMMENTS in Java code?
 a. /* This is a comment
 b. // This is a comment
 c. # This is a comment
  
-Question 4: Which data type is used to create a variable that should store text?
+Question 4. Which data type is used to create a variable that should store text?
 a. myString
 b. string
 c. Txt
 d. String
  
-Question 5: How do you create a variable with the numeric value 5?
+Question 5. How do you create a variable with the numeric value 5?
 a. float x = 5;
 b. x = 5;
 c. num x = 5;
 d. int x = 5;
  
-Question 6: How do you create a variable with the floating number 2.8?
+Question 6. How do you create a variable with the floating number 2.8?
 a. x = 2.8f
 b. byte x = 2.8f;
 c. int x = 2.8f;
 d. float x = 2.8f;
  
-Question 7: Which method can be used to find the length of a string?
+Question 7. Which method can be used to find the length of a string?
 a. len()
 b. getSize()
 c. length()
 d. getLength()
  
-Question 8: Which operator is used to add together two values?
+Question 8. Which operator is used to add together two values?
 a. The & sign
 b. The * sign
 c. The + sign
  
-Question 9: The value of a string variable can be surrounded by single quotes.
+Question 9. The value of a string variable can be surrounded by single quotes.
 a. True
 b. False
  
-Question 10: Which method can be used to return a string in upper case letters?
+Question 10. Which method can be used to return a string in upper case letters?
 a. toUpperCase()
 b. tuc()
 c. upperCase()
 d. touppercase()
  
-Question 11: Which operator can be used to compare two values?
+Question 11. Which operator can be used to compare two values?
 a. <>
 b. =
 c. ==
 d. ><
  
-Question 12: To declare an array in Java, define the variable type with:
+Question 12. To declare an array in Java, define the variable type with:
 a. {}
 b. ()
 c. []
  
-Question 13: Array indexes start with:
+Question 13. Array indexes start with:
 a. 0
 b. 1
  
-Question 14: How do you create a method in Java?
+Question 14. How do you create a method in Java?
 a. methodName
 b. methodName()
 c. (methodName)
 d. methodName[]
  
-Question 15: How do you call a method in Java?
+Question 15. How do you call a method in Java?
 a. (methodName)
 b. methodName;
 c. methodName();
 d. methodName[];
  
-Question 16: Which keyword is used to create a class in Java?
+Question 16. Which keyword is used to create a class in Java?
 a. className
 b. class
 c. MyClass
 d. class()
  
-Question 17: What is the correct way to create an object called myObj of MyClass?
+Question 17. What is the correct way to create an object called myObj of MyClass?
 a. MyClass myObj = new MyClass();
 b. new myObj = MyClass();
 c. class MyClass = new myObj();
 d. class myObj = new MyClass();
  
-Question 18: In Java, it is possible to inherit attributes and methods from one class to another.
+Question 18. In Java, it is possible to inherit attributes and methods from one class to another.
 a. True
 b. False
  
-Question 19: Which method can be used to find the highest value of x and y?
+Question 19. Which method can be used to find the highest value of x and y?
 a. Math.maxNum(x,y)
 b. Math.max(x,y)
 c. Math.largest(x,y)
 d. Math.maximum(x,y)
  
-Question 20: Which operator is used to multiply numbers?
+Question 20. Which operator is used to multiply numbers?
 a. *    b. x
 c. #    d. %
  

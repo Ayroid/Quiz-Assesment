@@ -62,7 +62,6 @@ b. malloc
 c. create
 d. value
  
-
 Question 12. Which of the following correctly declares an array?
 a. int anarray[10];
 b. int anarray;
