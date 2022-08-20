@@ -1,3 +1,4 @@
+bcadcdbaca
 Question 1. The average of first 50 natural numbers is
 a. 25.30
 b. 25.5
