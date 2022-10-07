@@ -1,4 +1,4 @@
-cabdcabbabbbacdbbacb
+cacdcabbabbbacdbbacb
 Question 1. Number of primitive data types in Java are?
 a. 6
 b. 7
@@ -11,7 +11,7 @@ b. 32 and 32
 c. 64 and 64
 d. 64 and 32
  
-Question 3. Automatic type conversion is possible in which of the possible cases?
+Question 3. Automatic type conversion is not possible in which of the possible cases?
 a. byte to int
 b. int to long
 c. long to int
@@ -71,7 +71,7 @@ public class Solution{
 -------public static void main(String[] args){
 --------------int[]  x = {120, 200, 016};
 --------------for(int i = 0; i < x.length; i++){
----------------------System.out.print(x[i] + “ “);
+---------------------System.out.print(x[i] + " ");
 --------------}                   
 -------}
 }
@@ -134,8 +134,7 @@ b. II and III
 c. Only III
 d. I, II and III
   
-Question 16. Identify the keyword among the following that makes a variable belong to a class,
-rather than being defined for each instance of the class.
+Question 16. Identify the keyword among the following that makes a variable belong to a class, rather than being defined for each instance of the class.
 a. final
 b. static
 c. volatile
